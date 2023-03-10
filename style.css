@@ -1,0 +1,19 @@
+.table-row {
+    width: 150px;
+  }
+  
+  .footer {
+    margin-bottom: 50px;
+  }
+  
+  svg{
+    width: 50px;
+  }
+  
+  .download{
+    margin-top: 16px;
+  }
+  
+  li {
+    list-style-type: none;
+   }
